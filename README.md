@@ -5,3 +5,6 @@ Edited text file1
 Hello from develop branch again.
 
 ## Sample Title
+
+
+### Merge changes
