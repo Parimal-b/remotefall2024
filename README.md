@@ -2,6 +2,6 @@
 
 This is sample readme file for the class
 Edited text file1
-Hello from develop branch.
+Hello from develop branch again.
 
 ## Sample Title
